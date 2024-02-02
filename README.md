@@ -28,4 +28,10 @@
 
 Использовалась система сборки Maven версии 3.5.0
 
-Использовалась сторонняя библиотека args4j версии 2.33
+Использовалась сторонняя библиотека args4j версии 2.33:
+
+<dependency>
+    <groupId>args4j</groupId>
+    <artifactId>args4j</artifactId>
+    <version>2.33</version>
+</dependency>
